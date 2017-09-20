@@ -1,7 +1,7 @@
 {
-  "name": "react-native-simple-picker",
-  "version": "1.4.3",
-  "description": "A simple iOS picker for React Native",
+  "name": "react-native-simple-picker-fix",
+  "version": "1.4.4",
+  "description": "A simple picker for React Native (android and Ios)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
