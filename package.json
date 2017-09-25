@@ -1,6 +1,6 @@
 {
-  "name": "react-native-simple-picker",
-  "version": "1.4.3",
+  "name": "react-native-simple-picker-fix",
+  "version": "1.4.7",
   "description": "A simple iOS picker for React Native",
   "main": "index.js",
   "scripts": {
